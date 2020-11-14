@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles/clusterMarker.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"scripts.bcf3243b.css","sourceRoot":"../src/frontend","sourcesContent":[".clusterMarker {\n  height: 40px;\n  width: 40px;\n  background-color: grey;\n  color: white;\n  text-align: center;\n  border-radius: 50%;\n  font-size: 2em;\n}"]}
